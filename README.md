@@ -23,10 +23,5 @@ If you want a token to be added to the token list you can submit a PR , make sur
 Use feat() & patch() in your commit to pump the version
 example: 
 
-```
-feat(add): xDAI
-
-BREAKING CHANGE: description on why this is a breaking change. 
-```
 Once the PR is merge -> Go to the actions tab in the repository, and trigger the deploy action.
 
